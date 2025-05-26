@@ -1,3 +1,3 @@
 {
-  "zipmegalink": "https://mega.nz/file/aAgCCbjJ#ay4aIS0Rl7yZirtAsNR0yl8Fs0b9S8Y4eKjKtuEzg_Y"
+  "zipmegalink": "https://mega.nz/file/CRxyhQQT#7T4lzA6r1caHNu6uR2Y4YOYkZnl71FUapz5fgmPEdTs"
 }
